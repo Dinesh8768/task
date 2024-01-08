@@ -1,0 +1,11 @@
+body{
+    background-color:blanchedalmond;
+}
+button{
+    
+    background-color: greenyellow;
+    margin-right: 500px;
+    border: 1;
+    width: 50px;
+    border-color: aqua;
+}
